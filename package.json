@@ -1,7 +1,7 @@
 {
-  "name": "mineflayer-plugin-template",
-  "version": "1.0.0",
-  "description": "A template repository for creating Mineflayer plugins using Typescript.",
+  "name": "mineflayer-blockencoder",
+  "version": "0.0.1",
+  "description": "A simple Mineflayer plugin that adds a block encoder for machine learning purposes.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
@@ -11,19 +11,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheDudeFromCI/mineflayer-plugin-template.git"
+    "url": "git+https://github.com/TheDudeFromCI/mineflayer-blockencoder.git"
   },
   "keywords": [
     "mineflayer",
     "plugin",
-    "template"
+    "ai",
+    "ml",
+    "machine",
+    "learning",
+    "encoder"
   ],
   "author": "TheDudeFromCI",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TheDudeFromCI/mineflayer-plugin-template/issues"
+    "url": "https://github.com/TheDudeFromCI/mineflayer-blockencoder/issues"
   },
-  "homepage": "https://github.com/TheDudeFromCI/mineflayer-plugin-template#readme",
+  "homepage": "https://github.com/TheDudeFromCI/mineflayer-blockencoder#readme",
   "dependencies": {
     "mineflayer": "^2.21.0"
   },

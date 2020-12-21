@@ -1,6 +1,6 @@
 # API <!-- omit in toc -->
 
-Welcome to the *mineflayer-plugin-template* API documentation page.
+Welcome to the *Mineflayer Block Encoder* API documentation page.
 
 ## Table of Contents <!-- omit in toc -->
 
