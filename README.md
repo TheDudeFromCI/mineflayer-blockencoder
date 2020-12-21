@@ -2,12 +2,12 @@
 <p align="center"><i>A simple Mineflayer plugin that adds a block encoder for machine learning purposes.</i></p>
 
 <p align="center">
-  <img src="https://github.com/TheDudeFromCI/mineflayer-blockencoderate/workflows/Build/badge.svg" />
+  <img src="https://github.com/PrismarineJS/mineflayer-blockencoderate/workflows/Build/badge.svg" />
   <img src="https://img.shields.io/npm/v/mineflayer-blockencoder" />
-  <img src="https://img.shields.io/github/repo-size/TheDudeFromCI/mineflayer-blockencoder" />
+  <img src="https://img.shields.io/github/repo-size/PrismarineJS/mineflayer-blockencoder" />
   <img src="https://img.shields.io/npm/dm/mineflayer-blockencoder" />
-  <img src="https://img.shields.io/github/contributors/TheDudeFromCI/mineflayer-blockencoder" />
-  <img src="https://img.shields.io/github/license/TheDudeFromCI/mineflayer-blockencoder" />
+  <img src="https://img.shields.io/github/contributors/PrismarineJS/mineflayer-blockencoder" />
+  <img src="https://img.shields.io/github/license/PrismarineJS/mineflayer-blockencoder" />
 </p>
 
 ---
@@ -34,13 +34,13 @@ bot.doStuff()
 
 ### Documentation
 
-[API](https://github.com/TheDudeFromCI/mineflayer-blockencoder/blob/master/docs/api.md)
+[API](https://github.com/PrismarineJS/mineflayer-blockencoder/blob/master/docs/api.md)
 
-[Examples](https://github.com/TheDudeFromCI/mineflayer-blockencoder/tree/master/examples)
+[Examples](https://github.com/PrismarineJS/mineflayer-blockencoder/tree/master/examples)
 
 ### License
 
-This project uses the [MIT](https://github.com/TheDudeFromCI/mineflayer-blockencoder/blob/master/LICENSE) license.
+This project uses the [MIT](https://github.com/PrismarineJS/mineflayer-blockencoder/blob/master/LICENSE) license.
 
 ### Contributions
 

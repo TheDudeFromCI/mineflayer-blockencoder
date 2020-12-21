@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheDudeFromCI/mineflayer-blockencoder.git"
+    "url": "git+https://github.com/PrismarineJS/mineflayer-blockencoder.git"
   },
   "keywords": [
     "mineflayer",
@@ -25,9 +25,9 @@
   "author": "TheDudeFromCI",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TheDudeFromCI/mineflayer-blockencoder/issues"
+    "url": "https://github.com/PrismarineJS/mineflayer-blockencoder/issues"
   },
-  "homepage": "https://github.com/TheDudeFromCI/mineflayer-blockencoder#readme",
+  "homepage": "https://github.com/PrismarineJS/mineflayer-blockencoder#readme",
   "dependencies": {
     "mineflayer": "^2.21.0"
   },
